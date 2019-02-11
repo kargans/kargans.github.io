@@ -4,11 +4,11 @@ Section: Tweaks
 Maintainer: kargans<kargans@naver.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.kargan.kfccbanking_1.0_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Filename: ./debs/com.kargan.kfccbanking_1.0.0_iphoneos-arm.deb
+Size: 463
+MD5sum: 228d40eaf1ddfbc1ef0fc051788aa008
 Description: kfccbanking bypass
 Name: kfccbank_bypass
 Author: kargans<kargans@naver.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://kargans.github.io/depictions/?p=com.kargan.kfccbanking
 
