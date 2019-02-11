@@ -1,8 +1,8 @@
-Origin: kargans repo
-Label: kargans repo
+Origin: kargan's repo
+Label: kargan's repo
 Suite: stable
 Version: 1.0.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: kargans repo
+Description: kargan's repo
