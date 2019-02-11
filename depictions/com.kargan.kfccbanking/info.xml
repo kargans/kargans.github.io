@@ -12,20 +12,8 @@
 	</dependencies>
 	<shortDescription>kfccbanking bypass</shortDescription>
 	<descriptionlist>
-		<description>done</description>
-		<description>good luck</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>새마을금고 탈옥 탐지 우회 </description>
+		<description>ios 10.3.3 // app 2.96 </description>
+		<description></description>
 	</descriptionlist>
-
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>
