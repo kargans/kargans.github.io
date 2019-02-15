@@ -1,7 +1,7 @@
 Package: com.kargan.kfccbanking
 Version: 0.0.1-7+debug
 Section: Tweaks
-Maintainer: kargans<kargans@naver.com>
+Maintainer: kargans
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.kargan.kfccbanking_0.0.1-7+debug_iphoneos-arm.deb
@@ -9,6 +9,19 @@ Size: 463
 MD5sum: 228d40eaf1ddfbc1ef0fc051788aa008
 Description: kfccbanking bypass
 Name: kfccbank_bypass
-Author: kargans<kargans@naver.com>
-Depiction: https://kargans.github.io/depictions/?p=com.kargan.kfccbanking
+Author: kargans
+Depiction: 
 
+Package: com.kargan.bnk
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: kargans
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.kargan.bnk_0.0.1-1+debug_iphoneos-arm
+Size: 463
+MD5sum: 228d40eaf1ddfbc1ef0fc051788aa008
+Description: knb bypass
+Name: knb_bypass
+Author: kargans
+Depiction: 
