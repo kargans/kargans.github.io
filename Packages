@@ -1,5 +1,5 @@
 Package: com.kargan.bnk
-Version: 1.0.0-1+debug
+Version: 1.0.0
 Section: Tweaks
 Maintainer: kargans
 Depends: firmware (>7.0), mobilesubstrate
