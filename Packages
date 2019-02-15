@@ -6,7 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.kargan.bnk_0.0.1-2+debug_iphoneos-arm.deb
 Size: 2988
-MD5sum: 841784f4160622a7bc26303143fd1977
+MD5sum: 549cf513abdb2d4d16a60e765b3a55db
 Description: knb bypass
 Name: knb_bypass
 Author: kargans
